@@ -1,0 +1,19 @@
+# Compiler output
+cache/
+out/
+
+# Foundry
+lib/
+
+# Node
+node_modules/
+package-lock.json
+package.json
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
